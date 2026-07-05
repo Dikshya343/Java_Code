@@ -2,9 +2,27 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/game.iml" filepath="$PROJECT_DIR$/.idea/game.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/untitled/untitled1/untitled1.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/AcessModifier/AcessModifier.iml" filepath="$PROJECT_DIR$/AcessModifier/AcessModifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassName/ClassName.iml" filepath="$PROJECT_DIR$/ClassName/ClassName.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/College_Lab_Code/College_Lab_Code.iml" filepath="$PROJECT_DIR$/Array/College_Lab_Code/College_Lab_Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditional_Statement/Conditional_Statement.iml" filepath="$PROJECT_DIR$/Conditional_Statement/Conditional_Statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Constructor/Constructor.iml" filepath="$PROJECT_DIR$/Constructor/Constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataTypes/DataTypes.iml" filepath="$PROJECT_DIR$/DataTypes/DataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception_Handling/Exception_Handling.iml" filepath="$PROJECT_DIR$/Exception_Handling/Exception_Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCollection/JavaCollection.iml" filepath="$PROJECT_DIR$/JavaCollection/JavaCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AcessModifier/LabCode/LabCode.iml" filepath="$PROJECT_DIR$/AcessModifier/LabCode/LabCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AcessModifier/Lab_Code_5/Lab_Code_1.iml" filepath="$PROJECT_DIR$/AcessModifier/Lab_Code_5/Lab_Code_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOpS_In_Java/OOpS_In_Java.iml" filepath="$PROJECT_DIR$/OOpS_In_Java/OOpS_In_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javacode.iml" filepath="$PROJECT_DIR$/.idea/javacode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AcessModifier/packages/packages.iml" filepath="$PROJECT_DIR$/AcessModifier/packages/packages.iml" />
+>>>>>>> 4fa4a1ea75ecc7be0c72398ecbf7537adaa71364
     </modules>
   </component>
 </project>
